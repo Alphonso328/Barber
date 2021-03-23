@@ -21,11 +21,6 @@
   left: 0;
   z-index: 1; }
 
-.display-4 {
-  color: #bc8d59;
-  font-size: 4.5em;
-  padding-top: 5%; }
-
 .btn {
   border-radius: 80px;
   font-size: 2em; }
@@ -81,7 +76,12 @@ h1 {
   #Barbers .card {
     margin: 2%; }
 
-#testimonials h1 {
+#Testimonials .display-4 {
+  color: #bc8d59;
+  font-size: 4.5em;
+  padding-top: 5%; }
+
+#Testimonials h1 {
   color: #bc8d59; }
 
 .get_in_touch {

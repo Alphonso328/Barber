@@ -27,12 +27,6 @@
   z-index: 1;
 }
 
-.display-4 {
-  color: #bc8d59;
-  font-size: 4.5em;
-  padding-top: 5%;
-}
-
 .btn {
   border-radius: 80px;
   font-size: 2em;
@@ -106,7 +100,12 @@ h1 {
   }
 }
 
-#testimonials {
+#Testimonials {
+  .display-4 {
+    color: #bc8d59;
+    font-size: 4.5em;
+    padding-top: 5%;
+  }
   //   background-image: linear-gradient(150deg, #6b4425 11.9%, #713010 99.1%);
   h1 {
     color: #bc8d59;
